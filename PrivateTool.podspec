@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
   s.name         = "PrivateTool"
   s.version      = "0.0.1"
-  s.summary      = "A short description of PrivateTool."
+  s.summary      = "Try git"
 
 
   s.homepage     = "https://github.com/qhf012607/PrivateProject"
